@@ -57,3 +57,6 @@ public class StacksTyping implements KeyListener{
 	}
 
 }
+
+
+//Copyright © 2017 by Delara Aryan

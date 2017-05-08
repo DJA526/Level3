@@ -115,3 +115,6 @@ public class OncogeneTest
 		instance.isOncogene(healthySequences, sequencesWithInvalidElement, "TGC");
 	}
 }
+
+
+//Copyright © 2017 by Delara Aryan

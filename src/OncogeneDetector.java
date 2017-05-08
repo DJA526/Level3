@@ -22,3 +22,6 @@ public boolean isOncogene(ArrayList<String> healthySequences, ArrayList<String> 
 	}
 
 }
+
+
+//Copyright © 2017 by Delara Aryan

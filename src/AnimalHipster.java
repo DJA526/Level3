@@ -14,3 +14,6 @@ public class AnimalHipster {
 	}
 
 }
+
+
+//Copyright © 2017 by Delara Aryan

@@ -48,3 +48,6 @@ public class NamesArrayList implements ActionListener{
 	}
 
 }
+
+
+//Copyright © 2017 by Delara Aryan

@@ -26,3 +26,6 @@ public class JokesArrayList {
 	}
 	
 }
+
+
+//Copyright © 2017 by Delara Aryan

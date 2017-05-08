@@ -15,3 +15,6 @@ public class FoodArrayList {
 		System.out.println("You're eating " + foods.get(new Random().nextInt(foods.size())) + " for dinner.");
 	}
 }
+
+
+//Copyright © 2017 by Delara Aryan

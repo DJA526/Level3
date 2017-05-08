@@ -71,3 +71,6 @@ public class AnimalHipsterTest
 		assertEquals(new HashSet<>(Arrays.asList(new String[] {"Amy", "Brie", "Chris", "Devney", "Elena", "Fan-Hal"})), new HashSet<>(animalHipster.findAnimalHipsters(network, favoriteAnimals)));
 	}
 }
+
+
+//Copyright © 2017 by Delara Aryan

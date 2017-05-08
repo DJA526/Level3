@@ -87,3 +87,6 @@ public class MoreandMoreTests {
 	}
 
 }
+
+
+//Copyright © 2017 by Delara Aryan

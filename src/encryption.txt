@@ -1,9 +1,3 @@
-
-public class Simon {
-	
-	
-
-}
-
+k~o|wovyx
 
 //Copyright © 2017 by Delara Aryan
